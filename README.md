@@ -1,0 +1,2 @@
+# rudi
+Mining
